@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "h7snzVM4wVWaAKdBSdzyGFUxysAK3sJtEX0zzidEDVI=",
+  "Source": "birsen_turkan_api",
+  "BasePath": "_content/birsen_turkan_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "birsen_turkan_api\\wwwroot",
+      "Source": "birsen_turkan_api",
+      "ContentRoot": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\",
+      "BasePath": "_content/birsen_turkan_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\333d7dd7-a28d-427d-9318-b0ab83ed5897.PNG",
+      "SourceId": "birsen_turkan_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\",
+      "BasePath": "_content/birsen_turkan_api",
+      "RelativePath": "333d7dd7-a28d-427d-9318-b0ab83ed5897.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\333d7dd7-a28d-427d-9318-b0ab83ed5897.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\93c9b16f-8194-44c2-b7ab-7467ce407066.jpeg",
+      "SourceId": "birsen_turkan_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\",
+      "BasePath": "_content/birsen_turkan_api",
+      "RelativePath": "93c9b16f-8194-44c2-b7ab-7467ce407066.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\93c9b16f-8194-44c2-b7ab-7467ce407066.jpeg"
+    }
+  ]
+}

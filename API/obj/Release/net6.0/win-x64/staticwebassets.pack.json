@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\333d7dd7-a28d-427d-9318-b0ab83ed5897.PNG",
+      "PackagePath": "staticwebassets\\333d7dd7-a28d-427d-9318-b0ab83ed5897.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\8298a26b-b380-441a-b94b-211307e95599.PNG",
+      "PackagePath": "staticwebassets\\8298a26b-b380-441a-b94b-211307e95599.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\93c9b16f-8194-44c2-b7ab-7467ce407066.jpeg",
+      "PackagePath": "staticwebassets\\93c9b16f-8194-44c2-b7ab-7467ce407066.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\bc1b8442-0eb3-4019-a292-62eb97aaa80d.PNG",
+      "PackagePath": "staticwebassets\\bc1b8442-0eb3-4019-a292-62eb97aaa80d.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\de32f7f2-2a7e-47f7-ba3e-8de1e9858202.PNG",
+      "PackagePath": "staticwebassets\\de32f7f2-2a7e-47f7-ba3e-8de1e9858202.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Halis\\Desktop\\birsen_turkan\\birsen_turkan_api\\wwwroot\\e7abc467-0186-42bf-b037-3cebb8dbbe1b.PNG",
+      "PackagePath": "staticwebassets\\e7abc467-0186-42bf-b037-3cebb8dbbe1b.PNG"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.birsen_turkan_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.build.birsen_turkan_api.props",
+      "PackagePath": "build\\birsen_turkan_api.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.birsen_turkan_api.props",
+      "PackagePath": "buildMultiTargeting\\birsen_turkan_api.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.birsen_turkan_api.props",
+      "PackagePath": "buildTransitive\\birsen_turkan_api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

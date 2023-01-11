@@ -1,0 +1,11 @@
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\birsen_turkan_api.exe
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\birsen_turkan_api.dll
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\birsen_turkan_api.deps.json
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\birsen_turkan_api.runtimeconfig.json
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\birsen_turkan_api.pdb
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Halis\Desktop\birsen_turkan\birsen_turkan_api\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
